@@ -8,7 +8,7 @@
 ### Quick Run :
 * Firstly execute *sweep_config* and *wandb.sweep* modules that initialize sweep with parameters and return sweep id.
 * Then execute *wandb.agent* that train model with various combination of parameters.
-**Note - ** *It is suggested to pre-run all modules i.e. import, algorithms and supportive functionalities.*
+**Note -** *It is suggested to pre-run all modules i.e. import, algorithms and supportive functionalities.*
 
 ### Key Points for Execution :
 * It is a modular code in jupyter notebook format.
