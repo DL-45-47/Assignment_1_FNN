@@ -5,6 +5,11 @@
 * **DLA1_test_plot.ipynb** - Extra module for confusion matrix plot and accuracy plot on test data
 * **README.md** - Brief description about project
 
+### Quick Run :
+* Firstly execute *sweep_config* and *wandb.sweep* modules that initialize sweep with parameters and return sweep id.
+* Then execute *wandb.agent* that train model with various combination of parameters.
+**Note - ** *It is suggested to pre-run all modules i.e. import, algorithms and supportive functionalities.*
+
 ### Key Points for Execution :
 * It is a modular code in jupyter notebook format.
 * One who needs to run this notebook should have a wandb login which is needed for execution of the code.
