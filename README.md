@@ -14,7 +14,7 @@
 * It is a modular code in jupyter notebook format.
 * One who needs to run this notebook should have a wandb login which is needed for execution of the code.
 * Code is structured based on sweep functionality. There are two important sweep functions -
-  * wandb.sweep - to initiate sweep with config parameters, userid(entity) and project name and returns sweep id
+  * wandb.sweep - to initiate sweep with config parameters and project name and returns sweep id
   * wandb.agent - take parameters as sweep id and function name to be executed in loop with different combinations of parameters.
 * All Functionalities as given below are also essential for successful execution of Gradient descent algorithms.
 * It is preferred to execute all algorithm at begin as well, since sweep function randomly choose algorithms for execution.
