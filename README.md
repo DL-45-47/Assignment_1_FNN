@@ -1,5 +1,7 @@
 ## Assignment 1 - Feedforward Neural Network
 
+### Report Link : https://wandb.ai/prachisahu47/Feed_Forward_Neural_Network_modules/reports/Copy-of-miteshk-s-Assignment-1--Vmlldzo1MzA0MDA
+
 ### Files :
 * **DLA1.ipynb** - Final executable code with Sweep functionality
 * **DLA1_test_plot.ipynb** - Extra module for confusion matrix plot and accuracy plot on test data
